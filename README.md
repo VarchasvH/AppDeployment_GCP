@@ -20,5 +20,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="36" width="36">
 </p>
 
-## Complete Blog on how to build it yourself and steps
+## Complete Blog with Steps
+[Deploying an Application to Kubernetes on GKE]("NA")
 
