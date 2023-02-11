@@ -1,5 +1,20 @@
-# AppDeployment_GCP
-In this Project, I have used Docker and Kubernetes to deploy a node application to the container registry in gcr.
+# Deploy a Nodeapp to GKE (Google Kubernets Engine)
+
+
+
+
+## Tech Stack
+
+**Node.js**
+
+**Docker**
+
+**Kubernetes**
+
+**GKE(Google Kubernetes Engine)**
+
+**GCR(Google Container Registry)**
+
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="36" width="36"/>
 <img src="https://raw.githubusercontent.com/tush-tr/tush-tr/master/res/docker.gif" height="36" width="36" >
