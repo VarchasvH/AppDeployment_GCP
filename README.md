@@ -1,4 +1,4 @@
-# Deploy an Application to GKE (Google Kubernetes Engine) using Docker
+# Deploy an Application to GKE (Google Kubernetes Engine)
 
 ## Tech Stack
 
