@@ -1,0 +1,28 @@
+apiVersion: apps/v1
+
+kind: Deployment
+metadata:
+  name: nodeappdeployment
+  labels:
+    type: backend
+    app: nodeapp
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      type: backend
+      app: nodeapp
+  template:
+    metadata:
+      name: nodeapppod
+      labels:
+        type: backend
+        app: nodeapp
+    spec:
+      containers:
+        - name: nodeappcontainer
+          image: us.gcr.io/macro-spider-376408/nodeapp:v1
+          ports:
+            - containerPort: 80
+
+
