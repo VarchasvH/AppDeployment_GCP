@@ -21,5 +21,5 @@
 </p>
 
 ## Complete Blog with Steps
-[Deploying an Application to Kubernetes on GKE]("https://varchasvh.hashnode.dev/deploying-an-application-to-kubernetes-on-gcp")
+[Deploying an Application to Kubernetes on GCP - DevOps Project](https://varchasvh.hashnode.dev/deploying-an-application-to-kubernetes-on-gcp)
 
