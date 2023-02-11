@@ -1,4 +1,4 @@
-# Deploy a Nodeapp to GKE (Google Kubernets Engine)
+# Deploy a Nodeapp to GKE (Google Kubernetes Engine)
 
 
 
