@@ -19,3 +19,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="36" width="36">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="36" width="36">
 </p>
+
+## Complete Blog on how to build it yourself and steps
+
