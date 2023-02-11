@@ -1,5 +1,5 @@
 # Deploy a Nodeapp to GKE (Google Kubernetes Engine)
-
+In this Project, I use Docker and Kubernetes to publish a nodeapp on Google Cloud Registry.
 
 
 
