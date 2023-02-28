@@ -1,4 +1,4 @@
-# Deploy an Application to GKE (Google Kubernetes Engine)
+# Deploying an Application to GKE (Google Kubernetes Engine)
 
 ## Tech Stack
 
